@@ -4,6 +4,15 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+
+        <PackageId>Medio</PackageId>
+        <Version>0.1.0</Version>
+        <Authors>Oleksii Palamarchuk</Authors>
+        <Product>Medio</Product>
+        <Description>Clean and lightweight implementation of the Mediator design pattern for .NET applications.</Description>
+        <PackageTags>mediator;mediator-pattern;design-pattern;dotnet;library</PackageTags>
+        <RepositoryUrl>https://github.com/PalamarchukOleksii/Medio</RepositoryUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
     <ItemGroup>
